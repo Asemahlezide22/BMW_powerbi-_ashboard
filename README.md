@@ -52,9 +52,6 @@ This dashboard presents an interactive analysis of BMW's sales performance acros
 ### 🔹 Dashboard Overview
 ![Overview](Sales_Dashboard.png)
 
-### 🔹 Revenue by Vehicle Model
-![Revenue](revenue_by_model.png)
-
 ### 🔹 PowerBI_model_view_DAX
 ![PowerBI_model_view](PowerBI_model_view_DAX.png)
 
