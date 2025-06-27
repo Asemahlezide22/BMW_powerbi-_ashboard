@@ -20,8 +20,8 @@ This dashboard presents an interactive analysis of BMW's sales performance acros
 ## 📊 Dashboard Highlights
 
 - 🧮 **KPI Cards**:  
-  - **Total Revenue**: R1.11 Billion  
-  - **Units Sold**: 1,000 vehicles
+  - **Total Revenue**: R1.11 Billion.  
+  - **Units Sold**: 1,000 vehicles.
 
 - 📈 **Monthly Sales Trend**  
   - Time-series analysis of revenue from Jul 2024 to May 2025
@@ -73,7 +73,7 @@ This dashboard presents an interactive analysis of BMW's sales performance acros
 2. Open the `.pbix` file using **Power BI Desktop**.
 3. Explore and interact with the visuals and filters.
 
----
+------
 
 
 ## 💼 About Me 
